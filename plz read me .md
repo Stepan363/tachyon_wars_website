@@ -6,3 +6,6 @@ and made the science lab better images and changed ships constructions recources
 
 Youtube channel: https://www.youtube.com/channel/UC91rDrrj-nDwWmvybUeVHRQ
 There i make stuff film video games.(Minecraft)
+
+
+note: this web page is all in html and this is the page that i am working on :)
