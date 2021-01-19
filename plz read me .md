@@ -1,7 +1,8 @@
 # tachyon_wars_website
 
-The old tachyonwars game has been replaced to a better version by drawing more stars and random stars of numbers we have made it from css
-and made the science lab better images and changed ships constructions recources and better images of them. Thanks,
+Tachyonwars is a fantastic game pretty stars and made the science lab better images and changed ships constructions recources and better images of them. Thanks,
+plus you must turn on the music to 100 percent because the music is really coooooOOOOOOOOOLLLLlL u must see it!
+
 
 
 Youtube channel: https://www.youtube.com/channel/UC91rDrrj-nDwWmvybUeVHRQ
